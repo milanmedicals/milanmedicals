@@ -1,54 +1,50 @@
-<header>
+MilanMedicals - Trusted Global Pharmacy Solutions
+Welcome to the MilanMedicals GitHub repository!
+We are a trusted provider of authentic, hard-to-find, and life-saving medications, delivering to customers across India, the USA, the UK, the UAE, and Saudi Arabia.
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+Visit our website: MilanMedicals.com
 
-# GitHub Pages
+About MilanMedicals
+At MilanMedicals, we are committed to improving global access to essential medications. Whether you're seeking rare orphan drugs, specialty treatments, or affordable alternatives to high-cost branded products, we are here to help.
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+We specialize in:
 
-</header>
+Hard-to-source and specialty pharmaceuticals
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+Oncology, IVF, Neurology, and Autoimmune medications
 
-## Step 1: Enable GitHub Pages
+FDA-approved generics and branded drugs
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
+Secure worldwide shipping with tracking
 
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
+100% authenticity and best price guarantee
 
-### :keyboard: Activity: Enable GitHub Pages
+Learn more at MilanMedicals.com.
 
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
+Why This Repository?
+We believe in sharing useful resources with the healthcare and tech communities.
+Through this repository, we aim to:
 
-<footer>
+Publish open-source projects related to healthcare logistics
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+Share APIs, scripts, and automations for pharmacy management
 
----
+Provide documentation for pharmaceutical eCommerce integrations
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+Foster collaborations in the medical technology space
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+If you’re a developer, researcher, or pharmacist passionate about healthcare innovations, feel free to contribute!
 
-</footer>
+Useful Links
+🌐 Official Website
+
+📄 Terms & Conditions
+
+🛒 Shop Medicines
+
+📧 Contact: support@milanmedicals.com
+
+License
+This repository is open-source and available under the MIT License.
+
+✅ MilanMedicals – Your trusted source for authentic medicines, anywhere in the world.
